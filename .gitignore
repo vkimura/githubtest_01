@@ -1,2 +1,5 @@
 /**/directory_to_ignore
 /ignore_this_direc
+/bootstrap/compiled.php
+.env.*.php
+.env.php
